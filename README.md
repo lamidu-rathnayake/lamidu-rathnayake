@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java developer and Web developer
 --------------------------------
 
-currently i'm a student in ucsc and doing diploma while working in mcs compter system as a system technician. and im really like to discover new technologies as my one of hobbies and i love this thing. so you are welcome to my profile and learn and put some comments if i have done some trash or if you have any other techniques which i should follow up.
+im really like to discover new technologies as my one of hobbies and i love this thing. so you are welcome to my profile and learn and put some comments if i have done some trash or if you have any other techniques which i should follow up.
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [Lamidu2002@gmail.com](mailto:Lamidu2002@gmail.com)
