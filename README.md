@@ -7,7 +7,7 @@ Java Developer and Web Developer
 I really like to discover new technologies as one of my hobbies and I love this thing. So you are welcome to my profile to learn and put some comments if I have done some trash or if you have any other techniques which I should follow up.
 
 * 🌍  I'm based in Sri Lanka
-* ✉️  You can contact me at [Lamidu2002@gmail.com](mailto:Lamidu2002@gmail.com)
+* ✉️  You can contact me at [Lamidurathnayakeofficial@gmail.com](mailto:Lamidurathnayakeofficial@gmail.com)
 * 🧠  I'm learning Java, React.js, Node.js, Python, C, MySQL
 * 🤝  I'm open to collaborating on Java application and web application projects
 * ⚡  🎧🎛 I'm a ghost music producer as well
