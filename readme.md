@@ -62,13 +62,12 @@ I’m also a **ghost music producer** 🎛🎚
 </p>
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/lamidu-rathnayake/blob/output/github-contribution-grid-snake.gif"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamidu-rathnayake&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/lamidu-rathnayake/blob/output/github-contribution-grid-snake.gif"/>
+</p>
 ---
 
 # ⭐ Quote
