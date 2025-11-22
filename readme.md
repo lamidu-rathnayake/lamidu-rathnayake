@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=#004cff&center=true&vCenter=true&width=600&lines=Hi+I'm+Lamidu+Rathnayake+👋;Java+Developer+%7C+Web+Developer;Full-Stack+Learner+%7C+Tech+Explorer;Welcome+to+my+GitHub+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=004cff&center=true&vCenter=true&width=600&lines=Hi+I'm+Lamidu+Rathnayake+👋;Java+Developer+%7C+Web+Developer;Full-Stack+Learner+%7C+Tech+Explorer;Welcome+to+my+GitHub+⚡" />
 </p>
 
 ---
