@@ -8,6 +8,7 @@ I'm a passionate **in front-end developmet with animation using react, gsap, thr
 
 🌍 Location • Sri Lanka
 <br>
+<br>
 
 
 ## 🛠️ Tech Stack
