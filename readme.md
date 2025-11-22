@@ -66,7 +66,7 @@ I’m also a **ghost music producer** 🎛🎚
 </p>
 
 <p align="center">
-  <img src="https://github.com/lamidu-rathnayake/lamidu-rathnayake/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/lamidu-rathnayake/lamidu-rathnayake/blob/output/github-snake-dark.svg" />
 </p>
 
 ---
