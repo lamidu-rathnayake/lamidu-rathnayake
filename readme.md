@@ -33,7 +33,7 @@ I’m also a **ghost music producer** 🎛🎚
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,py,csharp,react,nodejs,tailwind,mysql,vscode,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,js,py,cs,react,nodejs,tailwind,mysql,vscode,figma&perline=8" />
 </p>
 
 ---
@@ -42,7 +42,6 @@ I’m also a **ghost music producer** 🎛🎚
 
 <p align="center">
   <a href="https://discord.com/users/lamidurathnayake"><img src="https://skillicons.dev/icons?i=discord&size=45" /></a>
-  <a href="https://www.facebook.com/lamidu.rathnayake.1"><img src="https://skillicons.dev/icons?i=facebook&size=45" /></a>
   <a href="https://github.com/lamidu-rathnayake"><img src="https://skillicons.dev/icons?i=github&size=45" /></a>
   <a href="http://www.instagram.com/lamidu_rathnayake"><img src="https://skillicons.dev/icons?i=instagram&size=45" /></a>
   <a href="https://www.linkedin.com/in/lamidu-rathnayake-aab9202a9"><img src="https://skillicons.dev/icons?i=linkedin&size=45" /></a>
