@@ -65,8 +65,9 @@ I’m also a **ghost music producer** 🎛🎚
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamidu-rathnayake&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
 </p>
 
-![snake gif](https://github.com/lamidu-rathnayake/lamidu-rathnayake/output/github-contribution-grid-snake.gif)
-
+<p align="center">
+  <img src="https://github.com/lamidu-rathnayake/lamidu-rathnayake/output/github-contribution-grid-snake.gif" />
+</p>
 
 ---
 
