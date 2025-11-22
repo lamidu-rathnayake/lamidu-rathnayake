@@ -20,7 +20,7 @@ I'm a passionate **in front-end developmet with animation using react, gsap, thr
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://discord.com/users/lamidurathnayake"><img src="https://skillicons.dev/icons?i=discord&size=45" /></a>
-  <a href="href="mailto:someone@example.com""><img src="https://skillicons.dev/icons?i=gmail&size=45" /></a>
+  <a href="href="mailto:lamidurathnayakeofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&size=45" /></a>
   <a href="https://github.com/lamidu-rathnayake"><img src="https://skillicons.dev/icons?i=github&size=45" /></a>
   <a href="http://www.instagram.com/lamidu_rathnayake"><img src="https://skillicons.dev/icons?i=instagram&size=45" /></a>
   <a href="https://www.linkedin.com/in/lamidu-rathnayake-aab9202a9"><img src="https://skillicons.dev/icons?i=linkedin&size=45" /></a>
