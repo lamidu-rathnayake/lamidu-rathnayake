@@ -53,6 +53,10 @@ I’m also a **ghost music producer** 🎛🎚
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamidu-rathnayake&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lamidu-rathnayake&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamidu-rathnayake&theme=tokyonight&hide_border=true" height="160px" />
 </p>
@@ -62,16 +66,5 @@ I’m also a **ghost music producer** 🎛🎚
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamidu-rathnayake&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
-</p>
-
-<p align="center">
   <img src="https://github.com/lamidu-rathnayake/lamidu-rathnayake/blob/output/github-snake-dark.svg" />
-</p>
-
----
-
-# ⭐ Quote
-<p align="center">
-  <i>"Keep learning. Keep coding. Keep improving."</i>
 </p>
