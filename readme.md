@@ -32,10 +32,6 @@ I'm a passionate **in front-end developmet with animation using react, gsap, thr
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamidu-rathnayake&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
-</p>
-
-<p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=lamidu-rathnayake&show_icons=true&theme=tokyonight&hide_border=true" height="160px" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamidu-rathnayake&theme=tokyonight&hide_border=true" height="160px" />
 </p>
