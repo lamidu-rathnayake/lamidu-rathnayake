@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=1000&color=1A58F7FF&vCenter=true&width=870&lines=Hi+I'm+Lamidu+Rathnayake;Full-Stack+.NET+%26+Next.js;GSAP+%26+Three.js+Animation;Audio+Software+%26+C%2B%2B" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=1000&color=1A58F7FF&vCenter=true&width=870&lines=Hi+I'm+Lamidu+Rathnayake;Full-Stack+.NET+%26+Next.js;GSAP+%26+Three.js+Animation;Audio+Software+%26+C%2B%2B)](https://git.io/typing-svg)
 
-<h3 align="center">Bridging the gap between high-performance enterprise systems and creative technology.</h3>
+> **Bridging the gap between high-performance enterprise systems and creative technology.**
 
 <br>
 
