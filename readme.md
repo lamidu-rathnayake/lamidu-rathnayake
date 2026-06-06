@@ -20,7 +20,6 @@ When I'm not writing code or analyzing network packets, you can find me producin
 ## ⚡ What I'm Currently Up To
 - 💻 Building animated frontends and robust `.NET` backends for complex web applications.
 - 🎛️ Mastering **C++**, **JUCE**, and DSP mathematics for custom audio plugin development.
-- 🎵 Dropping beats and tutorials on the **LDMRK** YouTube channel.
 - 🔐 Deepening my knowledge in Data Structures, Algorithms, and network packet analysis.
 
 <br>
