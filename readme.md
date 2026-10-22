@@ -49,9 +49,6 @@ FieldSync ↗ · Offline-first hardware logistics and field operations.
 Period	Learning priorities
 2026–27	Backend foundations · software architecture · mathematics · ML basics
 2027–28	AI / IoT coursework · C++ & sensors · integration · capstone
-
-
-<sub>Learning goals, not claims of completed work. University coursework comes first.</sub>
 </details>
 
 <div align="center">
