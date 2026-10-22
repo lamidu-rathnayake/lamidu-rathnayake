@@ -1,70 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=32&duration=2400&pause=1000&color=1A58F7FF&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Learning+Applied+Machine+Learning;Exploring+Audio+%26+Music+Information+Retrieval;Building+My+Audio-ML+Engineering+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=2400&pause=1000&color=1A58F7FF&vCenter=true&width=1000&lines=Software+Engineering+Undergraduate;Learning+Systems+Programming;Exploring+IoT%2C+Robotics+%26+Intelligent+Machines;Building+Strong+Engineering+Foundations)](https://git.io/typing-svg)
 
-> **Learning to build useful machine-learning systems, with a particular interest in audio and music.**
+> **Learning to build reliable software and understand the systems that connect code, data, sensors, and machines.**
 
-Hi, I'm **Lamidu Rathnayake**, a Software Engineering undergraduate in Sri Lanka. I'm currently focusing on **applied machine learning**, with a long-term specialization goal in **audio ML and music information retrieval**.
+Hi, I'm **Lamidu Rathnayake**, a Software Engineering undergraduate at **SLTC Research University, Sri Lanka**, and an **Application Support Engineer** working in banking technology.
 
-I'm still learning, so this profile is a record of the concepts I'm studying, the experiments I'm running, and the systems I'm gradually building—not a claim that I've mastered them already.
+My current direction is **Systems Programming & Intelligent Machine Engineering**. I'm building foundations in programming, mathematics, software engineering, and applied AI while exploring **signal processing, IoT, embedded systems, robotics, and automation**.
 
-Alongside my studies, I have experience in application support for banking systems. That experience gives me practical exposure to troubleshooting, databases, and the importance of reliable software.
+My experience in application support gives me practical exposure to troubleshooting, databases, and reliable software operations. My exact specialization is still evolving through coursework and practical experience.
 
----
+This profile records what I'm learning and building. Future roadmap topics are learning goals, not claims of mastery.
 
-## 🎯 My Current Direction
+## 🎯 Current Focus
 
-My goal is to understand how to build and evaluate ML-powered audio applications—from the signal-processing foundations to a useful, measurable search system.
+- **University and mathematics:** coursework, assessments, and Probability & Statistics revision, supported by algebra and other prerequisites as needed.
+- **Python:** collections, functions, problem-solving, debugging, testing, and maintainable code.
+- **Backend engineering:** HTTP, APIs, FastAPI, SQL, PostgreSQL, validation, and database fundamentals.
+- **Application development:** React and TypeScript, developed alongside practical project needs.
+- **Engineering habits:** Git, Linux, reproducible environments, testing, and clear technical documentation.
 
-- 🐍 **Python and ML foundations:** NumPy, data handling, classical ML, and PyTorch fundamentals.
-- 🎧 **Audio and DSP:** waveforms, spectrograms, STFT, MFCCs, chroma, and audio feature extraction.
-- 🧠 **Audio ML:** pretrained audio models, embeddings, similarity search, and retrieval evaluation.
-- 📏 **Engineering and evaluation:** reproducible experiments, baselines, quality metrics, profiling, and latency measurement.
-- 🖥️ **Product interface:** React and TypeScript for building a clear interface around ML capabilities.
-- 🔧 **Supporting backend skills:** SQL and C#/.NET, maintained through practical work and smaller implementation tasks.
+University work comes first. Independent learning fills gaps and reinforces coursework rather than repeating the same subjects through separate courses.
 
-## 🧪 Main Learning Project: Audio ML Search
+## 🛠️ Ongoing Project
 
-I'm working toward an audio-search application that helps users find similar samples and loops **by sound rather than filename**.
+| Project | Description | Technology direction |
+|---|---|---|
+| [FieldSync](https://github.com/lamidu-rathnayake/MCS-FieldSync) | An ongoing offline-first enterprise application focused on hardware logistics, field operations, reliable synchronization, and backend architecture. | Roadmap target: Python, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, and Docker. See the project repository for its current implementation. |
 
-The project is intended to grow in small, testable stages:
+I'm using this project to develop practical understanding of data validation, APIs, transactions, testing, offline workflows, and reliability. Features and performance results will be documented as they are implemented and verified.
 
-1. Load and inspect audio; understand its waveform and spectrogram.
-2. Establish a conventional feature-based similarity baseline.
-3. Compare the baseline with embeddings from a suitable pretrained audio model.
-4. Evaluate retrieval quality with metrics such as Precision@k, Recall@k, and nDCG.
-5. Add a searchable interface and measure query latency and resource use.
-6. Document experiments, limitations, and results so that other people can reproduce them.
+## 🗺️ Learning Roadmap — October 2026 to September 2028
 
-**Current stage:** learning the prerequisites and building the foundations. The complete application and research experiments are future milestones, not finished achievements.
+My roadmap follows my university semesters. These are learning priorities, not completed milestones or separate compulsory projects.
 
-## 📚 What I'm Learning
+| Semester | University focus | Supporting learning |
+|---|---|---|
+| **Year 3 · Semester 1** | Software Architecture, Software Engineering Methods, Software Quality Assurance, NLP, and Technology Challenge Competition | Python, web/backend fundamentals, statistics revision, and the immediate mathematics needed for NLP |
+| **Year 3 · Semester 2** | Research Methods, Advanced Software Design, Discrete Mathematics, Machine Learning, and Linear Algebra | DSA, numerical arrays, model evaluation, missing calculus prerequisites, and reliable backend design |
+| **Year 4 · Semester 1** | Artificial Intelligence, Deep Learning, Internet of Things, Human Behavior and Ethics, and Capstone Part 1 | Relevant ML prerequisites, sensor and electronics basics, and gradual C++/Linux practice where time permits |
+| **Year 4 · Semester 2** | Tensors and Graphs, Numerical Analysis, Industrial Training, and Capstone Part 2 | Numerical computing, system integration, testing, evaluation, reproducibility, and technical reporting |
 
-| Area | Current focus |
-|---|---|
-| Programming | Python fundamentals, clean code, debugging, and testing |
-| Mathematics | Linear algebra, probability, statistics, and the math needed for ML/DSP |
-| Machine learning | Data preparation, train/validation splits, baselines, evaluation, and embeddings |
-| Audio | Digital audio representation, time/frequency domains, and feature extraction |
-| Software engineering | Git, reproducible environments, APIs, databases, and performance measurement |
-| Frontend | React rendering, TypeScript, browser performance, and a usable search interface |
+The curriculum is fixed; my independent engineering specialization remains flexible. Coursework and projects can provide the same learning evidence, so I avoid duplicating work.
 
-## 🛠️ Tools and Technologies
+## ⚙️ Longer-Term Engineering Interests
 
-These are the tools I'm learning or using for coursework, work, and projects—not a claim of expert-level proficiency in every item.
+- **Systems programming:** modern C++, memory and resource ownership, Linux, debugging, concurrency, and performance measurement.
+- **Signal processing:** understanding sampled sensor data, noise, filtering, and signals from physical systems.
+- **IoT and embedded systems:** microcontrollers, data acquisition, device communication, and timing.
+- **Robotics and automation:** exploring how sensing, software, and control interact after the relevant foundations are established.
+- **Applied AI:** building and evaluating models when they serve a clear engineering purpose.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,git,docker,linux,react,ts,cs,dotnet,vscode&perline=6" alt="Python, PyTorch, FastAPI, PostgreSQL, Git, Docker, Linux, React, TypeScript, C sharp, .NET and VS Code" />
-</p>
+I have an **Arduino Uno, several sensors, and one controller supporting four motors** available for future practical work. This is equipment for exploration, not a claim of completed robotics projects.
 
-**Primary learning stack:** Python · NumPy · scikit-learn · PyTorch · audio DSP libraries · SQL
+## 🧰 Tools and Technologies
 
-**Supporting stack:** React · TypeScript · C# · ASP.NET Core · PostgreSQL · Git
+**Current learning and project direction:** Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Git · Docker · Linux
 
-## 🧭 How I Approach Learning
+**Progressive study through coursework and practical work:** NumPy · ML fundamentals · PyTorch · modern C++ · CMake · Arduino and embedded programming
 
-- **Start with a baseline** before adding a more complex model or tool.
-- **Measure before optimizing** and record the workload, environment, and results.
-- **Build incrementally** so each stage is runnable and testable.
-- **Be honest about limitations** and document what failed as well as what worked.
+**Additional background:** C# · ASP.NET Core · SQL
+
+These represent different levels of experience and planned study, not equal proficiency in every tool.
+
+## 📚 Learning Journal & Practicals
+
+[**My-Progress**](https://github.com/lamidu-rathnayake/My-Progress) contains my learning material and practical exercises. I'm organising plans and study notes in Notion, with code and runnable practicals kept in GitHub.
+
+My learning process is simple:
+
+1. Understand the concept and explain it in my own words.
+2. Solve a problem or implement a small example independently.
+3. Test it, record mistakes, and revisit gaps.
+4. Reuse coursework as evidence where appropriate.
+5. Measure before optimizing and document limitations honestly.
+
+I study around employment and university commitments, reducing optional work during demanding weeks.
 
 ## 📈 Developer Activity
 
@@ -87,4 +96,4 @@ These are the tools I'm learning or using for coursework, work, and projects—n
 
 ---
 
-> **Current mindset:** Learn the fundamentals. Build a baseline. Measure the results. Improve one thing at a time.
+> **Current mindset:** Learn the foundations. Build useful systems. Verify what works. Improve one step at a time.
