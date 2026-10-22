@@ -46,11 +46,6 @@ FieldSync ↗ · Offline-first hardware logistics and field operations.
 </div>
 
 <details>
-<summary><b>📈 View contribution graph & 2026–2028 learning path</b></summary>
-
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lamidu-rathnayake&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
-
 Period	Learning priorities
 2026–27	Backend foundations · software architecture · mathematics · ML basics
 2027–28	AI / IoT coursework · C++ & sensors · integration · capstone
