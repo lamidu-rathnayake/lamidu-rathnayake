@@ -49,7 +49,7 @@
 <h2 align="center">Featured Project</h2>
 
 <table width="100%">
-  <tr>
+  <tr align="center">
     <td align="center">
       <h3><a href="https://github.com/lamidu-rathnayake/MCS-FieldSync">FieldSync</a></h3>
       <p>An ongoing offline-first enterprise application for hardware logistics,<br>field operations, and reliable data synchronization.</p>
