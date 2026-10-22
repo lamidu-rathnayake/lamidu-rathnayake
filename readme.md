@@ -23,10 +23,6 @@
 🧩 BUILDING	⚙️ LEARNING	🤖 EXPLORING
 Reliable web & backend systems	Python · mathematics · Linux	C++ · embedded · robotics
 APIs · databases · offline workflows	Architecture · testing · DSA	Sensors · signals · applied AI
-
-
-🚧 Featured Project
-FieldSync ↗ · Offline-first hardware logistics and field operations.
   
 🧰 Toolkit
 <div align="center">
