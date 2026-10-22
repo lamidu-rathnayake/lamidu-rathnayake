@@ -15,56 +15,56 @@
 
 <h2 align="center">Engineering Focus</h2>
 
-<table align="center">
-  <tr>
-    <th align="center"><img alt="Building" src="https://img.shields.io/badge/BUILDING-2563EB?style=flat-square" /></th>
-    <th align="center"><img alt="Learning" src="https://img.shields.io/badge/LEARNING-0891B2?style=flat-square" /></th>
-    <th align="center"><img alt="Exploring" src="https://img.shields.io/badge/EXPLORING-7C3AED?style=flat-square" /></th>
-  </tr>
-  <tr>
-    <td align="center">Backend systems<br>Web applications<br>Reliable software</td>
-    <td align="center">Python<br>Software architecture<br>Mathematics &amp; algorithms</td>
-    <td align="center">Systems programming<br>Embedded systems &amp; robotics<br>Applied AI</td>
-  </tr>
-</table>
+<p align="center">
+  <img alt="Building" src="https://img.shields.io/badge/BUILDING-2563EB?style=flat-square" align="middle" />&nbsp;&nbsp;Backend systems &nbsp;·&nbsp; Web applications &nbsp;·&nbsp; Reliable software
+</p>
+
+<p align="center">
+  <img alt="Learning" src="https://img.shields.io/badge/LEARNING-0891B2?style=flat-square" align="middle" />&nbsp;&nbsp;Python &nbsp;·&nbsp; Software architecture &nbsp;·&nbsp; Mathematics &amp; algorithms
+</p>
+
+<p align="center">
+  <img alt="Exploring" src="https://img.shields.io/badge/EXPLORING-7C3AED?style=flat-square" align="middle" />&nbsp;&nbsp;Systems programming &nbsp;·&nbsp; Embedded systems &amp; robotics &nbsp;·&nbsp; Applied AI
+</p>
 
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-  <sub><b>CURRENT</b></sub><br>
-  <img alt="Python, FastAPI, React, TypeScript, PostgreSQL, Git, Docker, Linux" src="https://skillicons.dev/icons?i=python,fastapi,react,ts,postgres,git,docker,linux&perline=8" />
+  <img alt="Current stack" src="https://img.shields.io/badge/CURRENT-2563EB?style=flat-square" align="middle" />&nbsp;&nbsp;
+  <img alt="Python, FastAPI, React, TypeScript, PostgreSQL, Git, Docker, Linux" src="https://skillicons.dev/icons?i=python,fastapi,react,ts,postgres,git,docker,linux&perline=8" align="middle" />
 </p>
 
 <p align="center">
-  <sub><b>BACKGROUND</b></sub><br>
-  <img alt="C# and ASP.NET Core" src="https://skillicons.dev/icons?i=cs,dotnet" height="40" align="middle" />&nbsp;
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-0B1026?style=flat-square" align="middle" />
+  <img alt="Background experience" src="https://img.shields.io/badge/BACKGROUND-475569?style=flat-square" align="middle" />&nbsp;&nbsp;
+  <img alt="C#" src="https://img.shields.io/badge/C%23-0F1A3D?style=flat-square&logo=csharp&logoColor=22D3EE" align="middle" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-0F1A3D?style=flat-square&logo=dotnet&logoColor=22D3EE" align="middle" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0F1A3D?style=flat-square" align="middle" />
 </p>
 
 <p align="center">
-  <sub><b>EXPLORING</b></sub><br>
-  <img alt="C++, CMake, Arduino, NumPy, PyTorch" src="https://skillicons.dev/icons?i=cpp,cmake,arduino,numpy,pytorch" height="36" />
+  <img alt="Exploring, upcoming" src="https://img.shields.io/badge/EXPLORING-7C3AED?style=flat-square" align="middle" />&nbsp;&nbsp;
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0F1A3D?style=flat-square&logo=cplusplus&logoColor=22D3EE" align="middle" />
+  <img alt="CMake" src="https://img.shields.io/badge/CMake-0F1A3D?style=flat-square&logo=cmake&logoColor=22D3EE" align="middle" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-0F1A3D?style=flat-square&logo=arduino&logoColor=22D3EE" align="middle" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0F1A3D?style=flat-square&logo=numpy&logoColor=22D3EE" align="middle" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0F1A3D?style=flat-square&logo=pytorch&logoColor=22D3EE" align="middle" />
 </p>
 
 <h2 align="center">Featured Project</h2>
 
-<table width="100%">
-  <tr align="center">
-    <td align="center">
-      <h3><a href="https://github.com/lamidu-rathnayake/MCS-FieldSync">FieldSync</a></h3>
-      <p>An ongoing offline-first enterprise application for hardware logistics,<br>field operations, and reliable data synchronization.</p>
-      <p>
-        <img alt="Python" src="https://img.shields.io/badge/Python-0F1A3D?style=flat-square&logo=python&logoColor=22D3EE" />
-        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0F1A3D?style=flat-square&logo=fastapi&logoColor=22D3EE" />
-        <img alt="React" src="https://img.shields.io/badge/React-0F1A3D?style=flat-square&logo=react&logoColor=22D3EE" />
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0F1A3D?style=flat-square&logo=typescript&logoColor=22D3EE" />
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0F1A3D?style=flat-square&logo=postgresql&logoColor=22D3EE" />
-        <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-0F1A3D?style=flat-square&logo=sqlalchemy&logoColor=22D3EE" />
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-0F1A3D?style=flat-square&logo=docker&logoColor=22D3EE" />
-      </p>
-    </td>
-  </tr>
-</table>
+<h3 align="center"><a href="https://github.com/lamidu-rathnayake/MCS-FieldSync">FieldSync</a></h3>
+
+<p align="center">An ongoing offline-first enterprise application for hardware logistics,<br>field operations, and reliable data synchronization.</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0F1A3D?style=flat-square&logo=python&logoColor=22D3EE" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0F1A3D?style=flat-square&logo=fastapi&logoColor=22D3EE" />
+  <img alt="React" src="https://img.shields.io/badge/React-0F1A3D?style=flat-square&logo=react&logoColor=22D3EE" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0F1A3D?style=flat-square&logo=typescript&logoColor=22D3EE" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0F1A3D?style=flat-square&logo=postgresql&logoColor=22D3EE" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-0F1A3D?style=flat-square&logo=sqlalchemy&logoColor=22D3EE" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0F1A3D?style=flat-square&logo=docker&logoColor=22D3EE" />
+</p>
 
 <h2 align="center">GitHub Activity</h2>
 
