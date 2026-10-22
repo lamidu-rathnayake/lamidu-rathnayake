@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="96" viewBox="0 0 440 96" role="img" aria-labelledby="title desc">
+  <title id="title">FieldSync</title>
+  <desc id="desc">Ongoing project in offline-first enterprise software.</desc>
+  <defs><linearGradient id="line"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="439" height="95" rx="14" fill="#0B1220" stroke="#23334D"/>
+  <rect x="20" y="23" width="50" height="50" rx="12" fill="#142742"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M33 44A13 13 0 0 1 55 39L59 43M59 35V43H51M57 53A13 13 0 0 1 35 58L31 54M31 62V54H39"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="86" y="45" font-size="25" font-weight="700" fill="#EEF5FF">FieldSync</text>
+    <text x="87" y="66" font-size="12" fill="#9CB0CA">Offline-first enterprise software</text>
+    <rect x="340" y="18" width="80" height="22" rx="11" fill="#17243B"/>
+    <text x="380" y="33" text-anchor="middle" font-size="10" letter-spacing=".6" fill="#76DCEF">ONGOING</text>
+    <path d="M404 63H414V53M414 63L403 52" transform="translate(0 2) scale(1 .96)" fill="none" stroke="#718BAA" stroke-width="1.5"/>
+  </g>
+</svg>
