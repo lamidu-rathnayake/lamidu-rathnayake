@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="NumPy">
-  <rect width="48" height="48" rx="10" fill="#14243B"/>
-  <g fill="#62B6E8"><rect x="13" y="10" width="6" height="6" rx="1"/><rect x="21" y="10" width="6" height="6" rx="1"/><rect x="29" y="10" width="6" height="6" rx="1"/><rect x="13" y="18" width="6" height="6" rx="1"/><rect x="21" y="18" width="6" height="6" rx="1"/><rect x="29" y="18" width="6" height="6" rx="1"/></g>
-  <text x="24" y="38" text-anchor="middle" fill="#D7F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700">NumPy</text>
-</svg>
