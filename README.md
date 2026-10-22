@@ -15,7 +15,7 @@
 
 <h2 align="center">Engineering Focus</h2>
 
-<table width="100%">
+<table align="center">
   <tr>
     <th align="center"><img alt="Building" src="https://img.shields.io/badge/BUILDING-2563EB?style=flat-square" /></th>
     <th align="center"><img alt="Learning" src="https://img.shields.io/badge/LEARNING-0891B2?style=flat-square" /></th>
