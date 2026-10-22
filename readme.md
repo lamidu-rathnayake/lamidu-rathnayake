@@ -9,7 +9,7 @@
 </a>
 
 <p><b>Software Engineering Undergraduate</b> · <b>Application Support Engineer</b><br>
-<sub>SLTC Research University · Banking Technology · Sri Lanka 🇱🇰</sub></p>
+<sub>SLTC Research University · Sri Lanka 🇱🇰</sub></p>
 
 <p>
   <a href="https://github.com/lamidu-rathnayake"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
